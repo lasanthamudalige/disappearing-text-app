@@ -31,7 +31,8 @@ def delete_text(text):
 
     """
     When after calls the delete text function.
-    If before letter count == now letter count text every letter in the textbox is going to get cleared.
+    If before letter count == now letter count text.
+    Every letter in the textbox is going to get cleared.
     """
     if len(text_before) == len(text_now):
         text_box.delete("1.0", END)
