@@ -11,7 +11,7 @@ def main():
     global text_box
     text_box = Text(root, height=40, width=100, font=25)
     text_box.focus()
-    text_box.pack(padx=20, pady=(20, 20))
+    text_box.pack(padx=20, pady=20)
 
     # When that pressed key is released
     root.bind('<KeyRelease>', on_release)
