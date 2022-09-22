@@ -10,3 +10,4 @@
   <source src="https://user-images.githubusercontent.com/91461938/191547505-e7acfc4c-e43d-4928-96df-7cf48786a8cd.webm" type="video/webm">
  </video>
 ![preview](https://user-images.githubusercontent.com/91461938/191664195-3c034c84-b2df-4e51-9368-05418f1ed662.gif)
+<img src="https://user-images.githubusercontent.com/91461938/191664195-3c034c84-b2df-4e51-9368-05418f1ed662.gif">
