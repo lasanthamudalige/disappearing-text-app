@@ -5,7 +5,7 @@ root = Tk()
 
 
 def main():
-    root.title("Disappearing text app")
+    root.title("Fade")
     root.geometry("1000x600")
 
     global text_box
