@@ -1,11 +1,51 @@
 # Fade
 
-Disappearing text app.
+Disappearing text program using [Python](https://www.python.org/).
 
-## Description:
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Usage](#usage)
 
-User can type inside the text box. If he/she stop it for 5 seconds the program reset all the text that was in the text field.
+## General info
+Once the user start to type and stop for more that 5 seconds everything inside the input box will get cleared.
+## Technologies
+Project is created with:
+* Python version: 3.10.6
+	
+## Setup
 
-### Preview:
+To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer.\
+From your command line run:
 
-<img src="https://user-images.githubusercontent.com/91461938/191905428-db4d0d82-4c7b-4001-9294-b02ed816ff71.gif">
+```
+# Clone this repository
+$ git clone https://github.com/lasanthamudalige/disappearing-text-app.git
+
+# Go into the repository
+$ cd /disappearing-text-app/
+```
+
+If u are on Linux please install python3-tk using:
+
+```
+$ sudo apt install python3-tk
+```
+
+## Usage
+
+To run this project in Linux/Unix:
+
+```
+$ python3 main.py
+```
+
+To run this project in Windows:
+
+```
+$ python main.py
+```
+
+## License 
+This project is open source and available under the [MIT License](https://github.com/lasanthamudalige/disappearing-text-app/blob/main/license).
