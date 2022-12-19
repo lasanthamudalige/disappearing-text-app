@@ -9,7 +9,7 @@ Disappearing text program using [Python](https://www.python.org/).
 * [Usage](#usage)
 
 ## General info
-Once the user start to type and stop for more that 5 seconds everything inside the input box will get cleared.
+Once the user start to type and if he/she stop for more that 5 seconds everything inside the input box will get cleared.
 ## Technologies
 Project is created with:
 * Python version: 3.10.6
